@@ -1,0 +1,12 @@
+  =>  WebSite Name    : Hope_News
+
+
+
+  =>  license websites : https:/EasyTech_Placide/license (or read the LICENSE.txt file)
+
+  =>  WebSite Author  : EasyTech_Placide muhemedi salumu
+
+  =>  Author Website   : https://radio voix d'espoir.com
+
+  =>  About EasyTech_Placide : EasyTech_Placide is one of the top creators and full developer
+       mobile App in Flutter and another student at universite of Hope Africa Dep: Science Informatique
